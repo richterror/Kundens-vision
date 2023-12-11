@@ -1,12 +1,12 @@
-# Mock data för restaurangens meny.
+# Mock data för restaurangens meny!
 
-Lägg till denna fil i er html som en javascript fil:
+Lägg till denna fil i er html som en javascript-fil:
 
 ```html
 <script src="db.js"></script>
 ```
 
-Används i er javascript som ett object literal:
+Använd i er javascript som ett object literal:
 
 ```js
 console.log(db.pagination) // samtliga kategorier tillgänglig i db
